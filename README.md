@@ -14,3 +14,9 @@ All dependencies related to Selenium, maven, testng, maven - surefire plugin are
 One has to add a TestRunner.java file at src/test/java/TestRunner path.
 Following above one contructs a Maven project using POM design.
 You need to run mvn clean test for your TestRunner file which will build your project, install all dependencies and then run the project as well as generate reports too.
+
+*** JAVA Core Concepts ***
+1. Focused on Core Java Concepts:
+ • OOPS Principles: Inheritance, Polymorphism, Encapsulation, Abstraction.
+ • Collections Framework: Lists, Sets, Maps, Queues.
+ • Java 8 Features: Streams, Lambda Expressions, Optional Class.
